@@ -1,0 +1,7 @@
+codec : h264 # h264 or h265
+decoder : av # av or nv
+
+fps : -1
+frameToDrop : -1 
+height : -1
+width : -1

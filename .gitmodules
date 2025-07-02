@@ -1,0 +1,8 @@
+[submodule "libs/VideoInput"]
+	path = libs/VideoInput
+	url = git@github.com:imessam/VideoInput.git
+	branch = main
+[submodule "libs/aiortc"]
+	path = libs/aiortc
+	url = git@github.com:imessam/aiortc.git
+	branch = main

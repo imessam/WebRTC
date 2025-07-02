@@ -1,2 +1,9 @@
 pyyaml
 pytest
+websockets
+aiortc
+opencv-python
+numpy
+Flask
+pycairo
+PyGObject<3.40
